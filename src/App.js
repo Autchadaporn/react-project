@@ -88,7 +88,7 @@ const App = () => {
           <Button
             onClick={onBtnClick}
             loading={loading}
-            icon={<HeartTwoTone twoToneColor="#eb2f96" />}
+            icon={<HeartTwoTone twoToneColor="#9999" />}
           >Click</Button>
         </Content>
         <Footer
